@@ -1,4 +1,4 @@
-# Nephael-SunshineCTF2021-Writeup
+# Haruster-SunshineCTF2021-Writeup
 - SunshineCTF2021 Writeup
 
 ## Liveness Check
